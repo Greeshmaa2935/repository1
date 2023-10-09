@@ -1,2 +1,2 @@
 # repository1
-github deposition
+github reposition
